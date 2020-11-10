@@ -17,8 +17,6 @@ Manoa Clubs Finder has three user roles, all of whom login with their UH ID. Reg
 
 Users can sort through all the clubs using catagories or keywords and can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
 
-Admins can monitor the site for inappropriate content, and create new categories.
-
 This web application uses information from [Student Life and Development at UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php) to get all the Registered Independent Organizations at UH Manoa.
 
 ## User Guide
