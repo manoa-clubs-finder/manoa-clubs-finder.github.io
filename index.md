@@ -35,6 +35,6 @@ We are interested in your experience using Manoa Clubs Finder!  If you would lik
 
 If you have any questions or queries you can contact any of the developers below.
 
--Jake Uyeda (jakeu@hawaii.edu)
--Tri Pham (tripham@hawaii.edu)
--Christian Siador (cjsiador@hawaii.edu)
+* Jake Uyeda (jakeu@hawaii.edu)
+* Tri Pham (tripham@hawaii.edu)
+* Christian Siador (cjsiador@hawaii.edu)
