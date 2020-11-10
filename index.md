@@ -11,6 +11,16 @@
 
 ## Overview
 
+Manoa Clubs Finder is a web application that provides a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+
+Manoa has three user roles, all of whom login with their UH ID. Regular users browse the directory. Club Admins have the ability to edit the data associated with their club. Super Admins make sure site content is appropriate and grant “club admin” privileges to selected users.
+
+Users can sort through all the clubs using catagories or keywords.
+
+Users can specify interest areas, and be notified when a new club is created matching that interest area (or an existing club adds that interest area).
+
+Admins can monitor the site for inappropriate content, and create new categories of musical tastes, capabilities, and goals.
+
 ## User Guide
 
 ## Community Feedback
@@ -25,6 +35,6 @@ We are interested in your experience using Manoa Clubs Finder!  If you would lik
 
 If you have any questions or queries you can contact any of the developers below.
 
-Jake Uyeda (jakeu@hawaii.edu)
-Tri Pham (tripham@hawaii.edu)
-Christian Siador (cjsiador@hawaii.edu)
+-Jake Uyeda (jakeu@hawaii.edu)
+-Tri Pham (tripham@hawaii.edu)
+-Christian Siador (cjsiador@hawaii.edu)
