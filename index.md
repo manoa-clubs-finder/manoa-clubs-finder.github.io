@@ -19,7 +19,7 @@ Users can sort through all the clubs using catagories or keywords and can specif
 
 Admins can monitor the site for inappropriate content, and create new categories.
 
-This web application uses information from [Manoa Clubs Finder Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdTZstgumOwQexxq4t9Ax4-_o3eCTdFLJ3gSHCjZxQBMfPI4Q/viewform?usp=pp_url) to get all the Registered Independent Organizations at UH Manoa.
+This web application uses information from [Student Life and Development at UH Manoa](http://www.manoa.hawaii.edu/studentlife/studentorg/rio.php) to get all the Registered Independent Organizations at UH Manoa.
 
 ## User Guide
 
