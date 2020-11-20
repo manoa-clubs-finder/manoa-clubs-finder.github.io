@@ -63,7 +63,7 @@ When you login to this site with the super admin role, you are taken to this pag
 
 When you login to this site with the user role, you are taken to this page. It shows you the things you can do being a user.
 
-![](images/clubuserhome.png)
+![](images/clubadminhome.PNG)
 
 ### Club Search
 
