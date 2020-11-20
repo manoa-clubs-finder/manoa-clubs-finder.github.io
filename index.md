@@ -27,11 +27,11 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
 
-![](images/Login.png)
+![](images/Login.PNG)
 
 Alternatively, you can select "Sign up" to go to the following page and register as a new user:
 
-![](images/register.png)
+![](images/register.PNG)
 
 ### Home Pages
 
@@ -41,7 +41,7 @@ After logging in, you are taken to the home page depending what role you have on
 
 When you login to this site with the club admin role, you are taken to this page. These are the things you can being a club admin.
 
-![](images/clubadminhome.png)
+![](images/clubadminhome.PNG)
 
 
 ## Community Feedback
