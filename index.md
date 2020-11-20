@@ -119,7 +119,7 @@ Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https
 
 WIP
 
-## Milestone 3: Final touches
+### Milestone 3: Final touches
 
 WIP
 
