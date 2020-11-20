@@ -91,7 +91,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ### Application Design
 
-
+WIP
 
 ## Development History
 
@@ -117,7 +117,11 @@ Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https
 
 ### Milestone 2: Data model development
 
+WIP
+
 ## Milestone 3: Final touches
+
+WIP
 
 ## Contact Us
 
