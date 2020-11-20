@@ -127,7 +127,7 @@ The goal of Milestone 1 was to create a set of HTML pages providing a mockup of 
 
 Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https://github.com/manoa-clubs-finder/manoa-clubs-finder/projects/1):
 
-![](images/project-board-1.png)
+![](images/project-board-1.PNG)
 
 ### Milestone 2: Data model development
 
