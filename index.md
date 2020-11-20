@@ -63,13 +63,13 @@ When you login to this site with the super admin role, you are taken to this pag
 
 When you login to this site with the user role, you are taken to this page. It shows you the things you can do being a user.
 
-#User home image here!
+![](images/clubuserhome.png)
 
 ### Club Search
 
 This is the page where users can view all the clubs in Manoa. You can filter the club by certain catagories.
 
-#club search image here!
+![](images/clubsearch.png)
 
 ## Community Feedback
 
