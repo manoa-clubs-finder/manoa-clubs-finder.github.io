@@ -23,6 +23,10 @@ This web application uses information from [Student Life and Development at UH M
 
 This section provides a walkthrough of the Manoa Clubs Finder user interface and its capabilities.
 
+### Link to Current Website
+
+[Manoa Clubs Finer Website](http://165.227.24.142/#/)
+
 ### Landing Page
 
 The landing page is presented to users when they visit the top-level URL to the site.
