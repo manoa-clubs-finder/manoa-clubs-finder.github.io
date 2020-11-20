@@ -31,7 +31,7 @@ This section provides a walkthrough of the Manoa Clubs Finder user interface and
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-#Landing image here
+![](images/landing.PNG)
 
 ### Sign in and sign up
 
@@ -57,7 +57,7 @@ When you login to this site with the club admin role, you are taken to this page
 
 When you login to this site with the super admin role, you are taken to this page. It shows you the things you can do being a super admin.
 
-#Super Admin Home image here!
+![](images/admin.PNG)
 
 #### User Home
 
