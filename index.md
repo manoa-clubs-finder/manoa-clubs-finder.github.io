@@ -21,7 +21,7 @@ This web application uses information from [Student Life and Development at UH M
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
+This section provides a walkthrough of the Manoa Clubs Finder user interface and its capabilities.
 
 ### Sign in and sign up
 
@@ -39,10 +39,27 @@ After logging in, you are taken to the home page depending what role you have on
 
 #### Club Admin Home
 
-When you login to this site with the club admin role, you are taken to this page. These are the things you can being a club admin.
+When you login to this site with the club admin role, you are taken to this page. It shows you the things you can do being a club admin.
 
 ![](images/clubadminhome.PNG)
 
+#### Super Admin Home
+
+When you login to this site with the super admin role, you are taken to this page. It shows you the things you can do being a super admin.
+
+#Super Admin Home image here!
+
+#### User Home
+
+When you login to this site with the user role, you are taken to this page. It shows you the things you can do being a user.
+
+#User home image here!
+
+### Club Search
+
+This is the page where users can view all the clubs in Manoa. You can filter the club by certain catagories.
+
+#club search image here!
 
 ## Community Feedback
 
