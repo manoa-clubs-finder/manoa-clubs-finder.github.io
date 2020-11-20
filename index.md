@@ -101,6 +101,10 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ### Application Design
 
+Manoa Clubs Finder is based upon meteor-application-template-react and meteor-example-form-react. Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Manoa Clubs Finder.
+
+### Data model
+
 WIP
 
 ## Development History
