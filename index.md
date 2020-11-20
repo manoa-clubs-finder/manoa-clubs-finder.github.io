@@ -91,9 +91,11 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ### Application Design
 
+
+
 ## Development History
 
-The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+The development process for Manoa Clubs Finder conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
 
 * Development consists of a sequence of Milestones.
 * Each Milestone is specified as a set of tasks.
@@ -103,7 +105,7 @@ The development process for BowFolios conformed to [Issue Driven Project Managem
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 
-The following sections document the development history of BowFolios.
+The following sections document the development history of Mano Clubs Finder.
 
 ### Milestone 1: Mockup development
 
@@ -115,21 +117,7 @@ Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https
 
 ### Milestone 2: Data model development
 
-The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Manoa Clubs Finder application.
-
-Milestone 2 was managed using [BowFolio GitHub Project Board M2](https://github.com/bowfolios/bowfolios/projects/2):
-
-![](images/project-board-2.png)
-
 ## Milestone 3: Final touches
-
-The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
-
-Milestone 3 was managed using [BowFolio GitHub Project Board M3](https://github.com/bowfolios/bowfolios/projects/3):
-
-![](images/project-board-3.png)
-
-As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
 
 ## Contact Us
 
