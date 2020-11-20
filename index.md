@@ -93,6 +93,44 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 ## Development History
 
+The development process for BowFolios conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
+
+* Development consists of a sequence of Milestones.
+* Each Milestone is specified as a set of tasks.
+* Each task is described using a GitHub Issue, and is assigned to a single developer to complete.
+* Tasks should typically consist of work that can be completed in 2-4 days.
+* The work for each task is accomplished with a git branch named "issue-XX", where XX is replaced by the issue number.
+* When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
+* The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
+
+The following sections document the development history of BowFolios.
+
+### Milestone 1: Mockup development
+
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system.
+
+Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https://github.com/manoa-clubs-finder/manoa-clubs-finder/projects/1):
+
+![](images/project-board-1.png)
+
+### Milestone 2: Data model development
+
+The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Manoa Clubs Finder application.
+
+Milestone 2 was managed using [BowFolio GitHub Project Board M2](https://github.com/bowfolios/bowfolios/projects/2):
+
+![](images/project-board-2.png)
+
+## Milestone 3: Final touches
+
+The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
+
+Milestone 3 was managed using [BowFolio GitHub Project Board M3](https://github.com/bowfolios/bowfolios/projects/3):
+
+![](images/project-board-3.png)
+
+As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
+
 ## Contact Us
 
 If you have any questions or queries you can contact any of the developers below.
