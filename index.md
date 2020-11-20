@@ -131,7 +131,11 @@ Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https
 
 ### Milestone 2: Data model development
 
-WIP
+The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
+
+Milestone 2 was managed using [Manoa Clubs Finder GitHub Project Board M2](https://github.com/manoa-clubs-finder/manoa-clubs-finder/projects/2):
+
+![](images/project-board-2.PNG)
 
 ### Milestone 3: Final touches
 
