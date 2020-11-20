@@ -67,6 +67,30 @@ We are interested in your experience using Manoa Clubs Finder!  If you would lik
 
 ## Developer Guide
 
+This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Manoa Clubs Finder application github page](https://github.com/manoa-clubs-finder/manoa-clubs-finder), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the bowfolios/app directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Application Design
+
 ## Development History
 
 ## Contact Us
