@@ -23,6 +23,12 @@ This web application uses information from [Student Life and Development at UH M
 
 This section provides a walkthrough of the Manoa Clubs Finder user interface and its capabilities.
 
+### Landing Page
+
+The landing page is presented to users when they visit the top-level URL to the site.
+
+#Landing image here
+
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
