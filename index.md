@@ -25,7 +25,7 @@ This section provides a walkthrough of the Manoa Clubs Finder user interface and
 
 ### Link to Current Website
 
-[Manoa Clubs Finer Website](http://165.227.24.142/#/)
+[Manoa Clubs Finder Website](http://165.227.24.142/#/)
 
 ### Landing Page
 
@@ -119,7 +119,7 @@ The development process for Manoa Clubs Finder conformed to [Issue Driven Projec
 * When a task is complete, its corresponding issue is closed and its corresponding git branch is merged into master.
 * The state (todo, in progress, complete) of each task for a milestone is managed using a GitHub Project Board.
 
-The following sections document the development history of Mano Clubs Finder.
+The following sections document the development history of Manoa Clubs Finder.
 
 ### Milestone 1: Mockup development
 
@@ -131,7 +131,7 @@ Milestone 1 was managed using [Manoa Clubs Finder GitHub Project Board M1](https
 
 ### Milestone 2: Data model development
 
-The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
+The goal of Milestone 2 is to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the Manoa Clubs Finder application.
 
 Milestone 2 was managed using [Manoa Clubs Finder GitHub Project Board M2](https://github.com/manoa-clubs-finder/manoa-clubs-finder/projects/2):
 
