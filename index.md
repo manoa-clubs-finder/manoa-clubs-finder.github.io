@@ -77,7 +77,7 @@ This is the page you can view all the clubs you can edit.
 
 ![](images/adminedit.PNG)
 
-### Admin Edit
+### Edit Page
 
 This is the page you can edit the club you picked.
 
