@@ -156,7 +156,7 @@ The goal of Milestone 2 is to implement the data model: the underlying set of Mo
 
 Milestone 2 was managed using [Manoa Clubs Finder GitHub Project Board M2](https://github.com/manoa-clubs-finder/manoa-clubs-finder/projects/2):
 
-![](images/m2-update.png)
+![](images/m2-updated-closed.png)
 
 ### Milestone 3: Final touches
 
