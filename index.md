@@ -170,6 +170,8 @@ Milestone 3 was managed using [Manoa Clubs Finder GitHub Project Board M3](https
 
 ## Contact Us
 
+[Organization URL](https://github.com/manoa-clubs-finder)
+
 If you have any questions or queries you can contact any of the developers below.
 
 * Jake Uyeda (jakeu@hawaii.edu)
