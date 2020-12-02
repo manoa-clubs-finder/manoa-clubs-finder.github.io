@@ -81,7 +81,7 @@ This is the page you can view all the clubs you can edit.
 
 This is the page you can edit the club you picked.
 
-![](images/club-edit-updated.PNG)
+![](images/club-edit-updated.png)
 
 ## Community Feedback
 
