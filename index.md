@@ -25,7 +25,7 @@ This section provides a walkthrough of the Manoa Clubs Finder user interface and
 
 ### Link to Current Website
 
-[Manoa Clubs Finder Website](https://manoa-clubs-finder.xyz/#/)
+[Manoa Clubs Finder Website](http://manoa-clubs-finder.xyz/#/)
 
 ### Landing Page
 
