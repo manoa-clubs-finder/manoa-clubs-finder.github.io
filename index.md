@@ -164,6 +164,8 @@ The goal of Milestone 3 was to clean up the code base and fix minor UI issues.
 
 Milestone 3 was managed using [Manoa Clubs Finder GitHub Project Board M3](https://github.com/manoa-clubs-finder/manoa-clubs-finder/projects/3):
 
+![](images/project-board-3.PNG)
+
 ## Contact Us
 
 If you have any questions or queries you can contact any of the developers below.
