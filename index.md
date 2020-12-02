@@ -119,6 +119,15 @@ Manoa Clubs Finder is based upon meteor-application-template-react and meteor-ex
 
 WIP
 
+## Continuous Integration
+
+![ci-badge](https://github.com/manoa-clubs-finder/manoa-clubs-finder/workflows/ci-manoa-clubs-finder/badge.svg)
+
+Manoa Clubs Finder uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/manoa-clubs-finder/manoa-clubs-finder/actions](https://github.com/manoa-clubs-finder/manoa-clubs-finder/actions).
+
+The workflow definition file is quite simple and is located at
+[.github/workflows/ci.yml](https://github.com/manoa-clubs-finder/manoa-clubs-finder/blob/master/.github/workflows/ci.yml).
+
 ## Development History
 
 The development process for Manoa Clubs Finder conformed to [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f19/modules/project-management/) practices. In a nutshell:
