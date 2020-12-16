@@ -125,7 +125,9 @@ Manoa Clubs Finder is based upon meteor-application-template-react and meteor-ex
 
 ### Data model
 
-WIP
+The data model for Manoa Clubs Finder only has 1 primary collection. That being the clubs. Each club has different information, and this information may include: Club Name, description, Meeting Times, Location, Club URL, Contact Info, Photo, Category, the Club Admin or the President of the Club.
+
+This application also has three roles, a admin, a club admin, and a club user. A admin can edit all clubs if they find anything inappropriate. They can also change the roles of the users. For example, the admin can make a club user turn into a club admin. A club admin can only edit their club. A club user can view all the clubs in Manoa and filter all the clubs to find a club right for them. The filter uses the categories in the club collection to filter all the different types of club.
 
 ## Continuous Integration
 
