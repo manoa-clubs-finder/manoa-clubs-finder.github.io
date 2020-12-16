@@ -95,6 +95,10 @@ This is the page where admins can change the roles of users.
 
 We are interested in your experience using Manoa Clubs Finder!  If you would like, please take a couple of minutes to fill out the [Manoa Clubs Finder Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdTZstgumOwQexxq4t9Ax4-_o3eCTdFLJ3gSHCjZxQBMfPI4Q/viewform?usp=pp_url). It contains only five short questions and will help us understand how to improve the web application.
 
+### General Summary
+
+WIP
+
 ## Developer Guide
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
