@@ -103,7 +103,7 @@ We are interested in your experience using Manoa Clubs Finder!  If you would lik
 
 ### General Summary
 
-With all the surveys that were filled out, we found out ways to help improve our application. The biggest thing people commented on was the glitch in the navbar. They said sometimes the navbar will glitch out and have another option to click on when the user had no permissions to enter that page. One person said we could improve the club admin edit club page so that only their club would show up. They said it was not that fun scrolling through to find the club to edit. All five people said that when searching for clubs the filter works really well and they liked how much categories you could filter all the clubs by. Overall, we see that we need to work on navbar and the club admin edit page so that the application will feel better to use.
+With all the surveys that were filled out, we found out ways to help improve our application. The biggest thing people commented on was the glitch in the navbar. They said sometimes the navbar will glitch out and have another option to click on when the user had no permissions to enter that page. One person said we could improve the club admin edit club page so that only their club would show up. They said it was not that fun scrolling through to find the club to edit. Two people said they wanted the pages to look nicer. Overall, we need to adjust our web application so that the users feel comfortable using it.
 
 ## Developer Guide
 
