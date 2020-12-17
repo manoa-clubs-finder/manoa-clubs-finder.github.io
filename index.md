@@ -59,25 +59,31 @@ When you login to this site with the club admin role, you are taken to this page
 
 When you login to this site with the super admin role, you are taken to this page. It shows you the things you can do being a super admin.
 
-![](images/admin.png)
+![](images/adminhome.png)
 
 #### User Home
 
 When you login to this site with the user role, you are taken to this page. It shows you the things you can do being a user.
 
-![](images/clubuserhome.png)
+![](images/userhome.png)
 
 ### Club Search
 
 This is the page where users can view all the clubs in Manoa. You can filter the club by certain catagories.
 
-![](images/club-search-updated.png)
+![](images/clubsearch.png)
+
+### Club Admin Edit
+
+This is the page you can view all the clubs you can edit when your a club admin.
+
+![](images/club-admin-edit.PNG)
 
 ### Admin Edit
 
 This is the page you can view all the clubs you can edit.
 
-![](images/admineditnew.PNG)
+![](images/admin-edit.PNG)
 
 ### Edit Page
 
