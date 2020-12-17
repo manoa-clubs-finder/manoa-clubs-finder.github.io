@@ -71,7 +71,7 @@ When you login to this site with the user role, you are taken to this page. It s
 
 This is the page where users can view all the clubs in Manoa. You can filter the club by certain catagories.
 
-![](images/updateclubsearch.PNG)
+![](images/updatesearchclub.PNG)
 
 ### Club Admin Edit
 
