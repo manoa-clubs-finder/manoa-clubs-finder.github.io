@@ -25,9 +25,7 @@ This section provides a walkthrough of the Manoa Clubs Finder user interface and
 
 ### Link to Current Website
 
-Note: This is running on http. Had the same error as Justin Aquino. Will change back to https when the certificate request resets.
-
-[Manoa Clubs Finder Website](http://manoa-clubs-finder.xyz/#/)
+[Manoa Clubs Finder Website](https://manoa-clubs-finder.xyz/#/)
 
 ### Landing Page
 
@@ -83,7 +81,7 @@ This is the page you can view all the clubs you can edit when your a club admin.
 
 This is the page you can view all the clubs you can edit.
 
-![](images/admin-edit.PNG)
+![](images/adminedit.PNG)
 
 ### Edit Page
 
